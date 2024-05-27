@@ -1,0 +1,17 @@
+{
+    "prenom" : "Nicolas",
+    "nom" : "Ribeiro",
+    "email" : "Presentation4@gmail.com",
+    "password" : "Password123",
+    "company" : "WCS",
+    "adress1" : "65 avenue de Bordeaux",
+    "adress2" : "Batiment n°5",
+    "adress3" : "3ème étage",
+    "city" : "Pessac",
+    "codepostal": "33600",
+    "phone" : "0650000000",
+    "country" : "France",
+    "region" : "Gironde"
+
+    
+}
